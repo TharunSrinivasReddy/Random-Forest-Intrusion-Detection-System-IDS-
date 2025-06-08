@@ -1,6 +1,4 @@
 # Random-Forest-Intrusion-Detection-System-IDS-
-A Streamlit-based Intrusion Detection System using a Random Forest Classifier with real-time metrics, charts, and downloadable results.
-# Random Forest Intrusion Detection System
 
 A web-based Intrusion Detection System (IDS) built using **Streamlit** and **Random Forest Classifier**. Upload your network dataset (CSV), get live evaluation metrics, visualizations, and download results like predictions, feature importances, and model parameters.
 
